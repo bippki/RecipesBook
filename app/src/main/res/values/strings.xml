@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Book of Recipes</string>
+    <string name="generate_recipe_fragment_button">Generate</string>
+    <string name="generate_recipe_fragment_hint">Name</string>
+</resources>

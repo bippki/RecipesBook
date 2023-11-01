@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/generateRecipeFragment"
+        android:enabled="true"
+        android:icon="@drawable/wand"
+        android:title="Generate" />
+    <item
+        android:id="@+id/recipeListFragment"
+        android:enabled="true"
+        android:icon="@drawable/star"
+        android:title="Favorites" />
+</menu>
